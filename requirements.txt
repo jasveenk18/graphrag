@@ -1,0 +1,9 @@
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-experimental==0.0.56
+langchain-openai==0.0.8
+sentence-transformers
+neo4j
+pypdf
+python-dotenv
+streamlit
