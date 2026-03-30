@@ -16,8 +16,6 @@ Graphy v1 is a real-time GraphRAG (Graph Retrieval-Augmented Generation) applica
   - [Installation](#installation)
   - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
