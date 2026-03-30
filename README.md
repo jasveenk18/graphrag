@@ -31,12 +31,10 @@ Graphy v1 allows users to upload a PDF document, which is then processed to extr
 - **Visualization**: (Coming Soon) Visual representation of the graph and query results.
 - **Extensible**: Designed to support multiple documents and more conversational interactions in future versions.
 
-## Demo
-
-[![Watch the video](https://img.youtube.com/vi/odtGLUPXqfs/hqdefault.jpg)](https://youtu.be/odtGLUPXqfs)
 
 
-*Click the image above to watch the demo video on YouTube.*
+
+
 
 ## Getting Started
 
@@ -114,16 +112,3 @@ To contribute:
 3. Commit your changes with clear commit messages.
 4. Open a pull request describing your changes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
-
-## Contact
-
-For questions or inquiries, please contact the developer:
-
-- **Email**: [aianytime07@gmail.com](mailto:aianytime07@gmail.com)
-
----
-
-*Disclaimer: This project is for educational purposes. Please ensure compliance with all applicable laws and regulations when using OpenAI's API and handling data.*
